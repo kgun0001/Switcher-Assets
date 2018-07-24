@@ -1,0 +1,177 @@
+{
+    "count": 17,
+    "next": "null",
+    "previous": "null",
+    "results": [
+                {
+                "id": 1,
+                "phonetitle": "Apple iPhone X",
+                "fullprice": "$999.99",
+                "rating": 4.5,
+                "downpayment": "$99.90",
+                "monthlypayment": "$41.66",
+                "ImageId": "iPhoneX-SpGry.png",
+                "image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/iPhoneX-SpGry.png?raw=true"
+                },
+                {
+                "id": 2,
+                "phonetitle": "Google Pixel 2 XL",
+                "fullprice": "$841.66",
+                "rating": 4,
+                "downpayment": "$60",
+                "monthlypayment": "$35.41",
+                "ImageId": "GOOGLE_Taiman_Blk.png",
+                "image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/GOOGLE_Taiman_Blk.png?raw=true"
+                },
+                {
+                "id": 3,
+                "phonetitle": "Samsung Galaxy S9+",
+                "fullprice": "$929.99",
+                "rating": 4,
+                "downpayment": "$75",
+                "monthlypayment": "$38.74",
+                "ImageId": "SAMSUNG_Galaxy_S9_Plus_Blue.png",
+                "image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/SAMSUNG_Galaxy_S9_Plus_Blue.png?raw=true"
+                },
+                {
+                "id": 4,
+                "phonetitle": "Apple iPhone SE",
+                "fullprice": "$349.99",
+                "rating": 4,
+                "downpayment": "$0",
+                "monthlypayment": "$14.58",
+                "ImageId": "apple_iPhoneSE_SpGry.png",
+                "image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/apple_iPhoneSE_SpGry.png?raw=true"
+                },
+                {
+                "id": 5,
+                "phonetitle": "Samsung Galaxy S9",
+                "fullprice": "$799.99",
+                "rating": 4.5,
+                "downpayment": "$80",
+                "monthlypayment": "$33.33",
+                "ImageId": "SAMSUNG_Galaxy_S9_Black.png",
+                "image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/SAMSUNG_Galaxy_S9_Black.png?raw=true"
+                },
+                {
+                "id": 6,
+                "phonetitle": "Apple iPhone 8 Plus",
+                "fullprice": "$799.99",
+                "rating": 4,
+                "downpayment": "$33",
+                "monthlypayment": "$33.33",
+                "ImageId": "iPhone8_plus_RED.png",
+                "image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/iPhone8_plus_RED.png?raw=true"
+                },
+                {
+                "id": 7,
+                "phonetitle": "LG V30",
+                "fullprice": "$840.00",
+                "rating": 4.5,
+                "downpayment": "$35.00",
+                "monthlypayment": "$35.00",
+                "ImageId": "LG_V30.png",
+                "image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/LG_V30.png?raw=true"
+                },
+                {
+                "id": 8,
+                "phonetitle": "Motorola moto g",
+                "fullprice": "$235.00",
+                "rating": 4,
+                "downpayment": "$10.00",
+                "monthlypayment": "$10.00",
+                "ImageId": "moto-G6-play-prepaid.png",
+                "image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/moto-G6-play-prepaid.png?raw=true"
+                },
+                {
+                "id": 9,
+                "phonetitle": "LG G7 ThinQ",
+                "fullprice": "$750.00",
+                "rating": 5,
+                "downpayment": "$31.25",
+                "monthlypayment": "$31.25",
+                "ImageId": "LG_G7_ThinQ_Grey.png",
+                "image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/LG_G7_ThinQ_Grey.png?raw=true"
+                },
+                {
+                "id": 10,
+                "phonetitle": "LG Stylo 2 V",
+                "fullprice": "$240.00",
+                "rating": 3.5,
+                "downpayment": "$0",
+                "monthlypayment": "$10.00",
+                "ImageId": "LG_Stylo_2V.png",
+                "image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/LG_Stylo_2V.png?raw=true"
+                },
+                {
+                "id": 11,
+                "phonetitle": "Apple iPhone 6s Plus",
+                "fullprice": "$549.99",
+                "rating": 4.6,
+                "downpayment": "$0",
+                "monthlypayment": "$22.91",
+                "ImageId": "iphone6s-plus-rsgld-front.png",
+                "image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/iphone6s-plus-rsgld-front.png?raw=true"
+                },
+                {
+                "id": 12,
+                "phonetitle": "ASUS ZenFone V",
+                "fullprice": "$240.00",
+                "rating": 2.5,
+                "downpayment": "$0",
+                "monthlypayment": "$10.00",
+                "ImageId": "ASUS_Zenfone_V.png",
+                "image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/ASUS_Zenfone_V.png?raw=true"
+                },
+                {
+                "id": 13,
+                "phonetitle": "Samsung Galaxy J7 V",
+                "fullprice": "$240.00",
+                "rating": 0,
+                "downpayment": "$0",
+                "monthlypayment": "$10.00",
+                "ImageId": "Postpaid_Samsung_J7_2ndGen_Black.png",
+                "image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/Postpaid_Samsung_J7_2ndGen_Black.png?raw=true"
+                },
+                {
+                "id": 14,
+                "phonetitle": "Samsung Galaxy S8",
+                "fullprice": "$696.00",
+                "rating": 3.5,
+                "downpayment": "$29.00",
+                "monthlypayment": "$29.00",
+                "ImageId": "Samsung_Galaxy_S8_Orchid_Gray.png",
+                "image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/Samsung_Galaxy_S8_Orchid_Gray.png?raw=true"
+                },
+                {
+                "id": 15,
+                "phonetitle": "Samsung Galaxy S7 edge",
+                "fullprice": "$449.00",
+                "rating": 5,
+                "downpayment": "$0.00",
+                "monthlypayment": "$18.70",
+                "ImageId": "Samsung_Hero2_Silver.png",
+                "image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/Samsung_Hero2_Silver.png?raw=true"
+                },
+                {
+                "id": 16,
+                "phonetitle": "Samsung Galaxy J7 V",
+                "fullprice": "$240",
+                "rating": 3.1,
+                "downpayment": "$0.00",
+                "monthlypayment": "$10.00",
+                "ImageId": "Sam_J7_V_Silver.png",
+                "image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/Sam_J7_V_Silver.png?raw=true"
+                },
+                {
+                "id": 17,
+                "phonetitle": "Samsung Galaxy J3 Eclipse",
+                "fullprice": "$168.00",
+                "rating": 3.4,
+                "downpayment": "$0.00",
+                "monthlypayment": "$7.00",
+                "ImageId": "samsung-galaxy-j3-eclipse-black.png",
+                "image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/samsung-galaxy-j3-eclipse-black.png?raw=true"
+                }
+                ]
+}
