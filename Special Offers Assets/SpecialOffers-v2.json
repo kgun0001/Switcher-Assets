@@ -1,0 +1,107 @@
+{
+    "count": 10,
+    "next": "null",
+    "previous": "null",
+    "results": [
+                {
+                "id": 1,
+                "phonetitle": "Samsung Galaxy S9",
+                "fullprice": "$792.00",
+                "rating": 3.8,
+                "downpayment": "$0",
+                "monthlypayment": "$16.50",
+                "ImageId": "cq5dam.s9.png",
+                "image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/cq5dam.s9.png?raw=true"
+                },
+                {
+                "id": 2,
+                "phonetitle": "Samsung Galaxy S9+",
+                "fullprice": "$921.00",
+                "rating": 4,
+                "downpayment": "$0",
+                "monthlypayment": "$21.50",
+                "ImageId": "cq5dam.s9+.png",
+                "image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/cq5dam.s9+.png?raw=true"
+                },
+                {
+                "id": 3,
+                "phonetitle": "Apple iPhone X+",
+                "fullprice": "$999.99",
+                "rating": 4.5,
+                "downpayment": "$0",
+                "monthlypayment": "$20.00",
+                "ImageId": "cq5dam.iPhoneX.png",
+                "image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/cq5dam.iPhoneX.png?raw=true"
+                },
+                {
+                "id": 4,
+                "phonetitle": "Apple iPhone 8 Plus",
+                "fullprice": "$799.99",
+                "rating": 4.7,
+                "downpayment": "$0",
+                "monthlypayment": "$33.34",
+                "ImageId": "cq5dam.iPhone8Plus.png",
+                "image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/cq5dam.iPhone8Plus.png?raw=true"
+                },
+                {
+                "id": 5,
+                "phonetitle": "Apple iPhone 8",
+                "fullprice": "$799.99",
+                "rating": 4.1,
+                "downpayment": "$0",
+                "monthlypayment": "$29.17",
+                "ImageId": "cq5dam.iPhone8.png",
+                "image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/cq5dam.iPhone8.png?raw=true"
+                },
+                {
+                "id": 6,
+                "phonetitle": "moto z³ play",
+                "fullprice": "$480.00",
+                "rating": 4,
+                "downpayment": "$0",
+                "monthlypayment": "$20.00",
+                "ImageId": "cq5dam.motoz3.png",
+                "image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/cq5dam.motoz3.png?raw=true"
+                },
+                {
+                "id": 7,
+                "phonetitle": "LG G7 ThinQ™",
+                "fullprice": "$792.00",
+                "rating": 5,
+                "downpayment": "$0",
+                "monthlypayment": "$16.50",
+                "ImageId": "cq5dam.LG-G7.png",
+                "image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/cq5dam.LG-G7.png?raw=true"
+                },
+                {
+                "id": 8,
+                "phonetitle": "moto e⁵ play",
+                "fullprice": "$195.00",
+                "rating": 0,
+                "downpayment": "$0",
+                "monthlypayment": "$6.00",
+                "ImageId": "cq5dam.moto-e3.png",
+                "image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/cq5dam.moto-e3.png?raw=true"
+                },
+                {
+                "id": 9,
+                "phonetitle": "LG V30+",
+                "fullprice": "$912.00",
+                "rating": 4,
+                "downpayment": "$0",
+                "monthlypayment": "$38.00",
+                "ImageId": "cq5dam.Lgv30.png",
+                "image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/cq5dam.Lgv30.png?raw=true"
+                },
+                {
+                "id": 10,
+                "phonetitle": "Samsung Galaxy J3 Achieve",
+                "fullprice": "$192.00",
+                "rating": 0,
+                "downpayment": "$0",
+                "monthlypayment": "$8.00",
+                "ImageId": "cq5dam.galaxy-j3.png",
+                "image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/cq5dam.galaxy-j3.png?raw=true"
+                }
+                ]
+}
