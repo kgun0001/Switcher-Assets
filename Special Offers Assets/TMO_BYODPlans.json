@@ -1,0 +1,51 @@
+{
+    "count": 4,
+    "next": "null",
+    "previous": "null",
+    "results": [
+                {
+                "planid": 1001,
+                "plantitle": "Plan A",
+                "lines": "1",
+                "includes": "Includes, Talk, Text and Data",
+                "currency":"$",
+                "color":"#61cbea",
+                "price": "39",
+                "pricePeriod": "/Month",
+                "validity":"Exclusive Switcher Offer"
+                },
+                {
+                "planid": 1002,
+                "plantitle": "Plan B",
+                "lines": "2",
+                "includes": "Includes, Talk, Text and Data",
+                "currency":"$",
+                "color":"#73b421",
+                "price": "59",
+                "pricePeriod": "/Month",
+                "validity":""
+                },
+                {
+                "planid": 1003,
+                "plantitle": "Plan C",
+                "lines": "2",
+                "includes": "Includes, Talk, Text, Data and App Plan",
+                "currency":"$",
+                "color":"#f5b407",
+                "price": "79",
+                "pricePeriod": "/Month",
+                "validity":""
+                },
+                {
+                "planid": 1004,
+                "plantitle": "Plan D",
+                "lines": "4",
+                "includes": "Includes, Talk, Text, Data and App Plan",
+                "currency":"$",
+                "color":"#6f348d",
+                "price": "99",
+                "pricePeriod": "/Month",
+                "validity":"Exclusive Switcher Offer"
+                }
+                ]
+}
