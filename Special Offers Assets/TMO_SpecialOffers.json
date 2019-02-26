@@ -1,0 +1,176 @@
+{
+	"count": 17,
+	"next": "null",
+	"previous": "null",
+	"results": [{
+			"id": 1,
+			"phonetitle": "Samsung Galaxy S10e",
+			"fullprice": "$749.99",
+			"rating": 0.0,
+			"downpayment": "$0.00",
+			"monthlypayment": "$20.84",
+			"ImageId": "Samsung-Galaxy-S10e-Prism-Black-1-sx.jpg",
+			"image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/Samsung-Galaxy-S10e-Prism-Black-1-sx.jpg?raw=true"
+		},
+		{
+			"id": 2,
+			"phonetitle": "Samsung Galaxy S10",
+			"fullprice": "$899.99",
+			"rating": 0.0,
+			"downpayment": "$99.99",
+			"monthlypayment": "$22.23",
+			"ImageId": "Samsung-Galaxy-S10-Prism-White-1-sx.jpg",
+			"image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/Samsung-Galaxy-S10-Prism-White-1-sx.jpg?raw=true"
+		},
+		{
+			"id": 3,
+			"phonetitle": "Samsung Galaxy S10 Plus",
+			"fullprice": "$999.99",
+			"rating": 0.0,
+			"downpayment": "$199.99",
+			"monthlypayment": "$22.23",
+			"ImageId": "Samsung-Galaxy-S10-plus-Prism-Blue-1-sx.jpg",
+			"image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/Samsung-Galaxy-S10-plus-Prism-Blue-1-sx.jpg?raw=true"
+		},
+		{
+			"id": 4,
+			"phonetitle": "Apple iPhone XR",
+			"fullprice": "$749.99",
+			"rating": 4.7,
+			"downpayment": "$0.00",
+			"monthlypayment": "$20.84",
+			"ImageId": "Apple-iPhoneXr-Blue-1-sx.jpg",
+			"image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/Apple-iPhoneXr-Blue-1-sx.jpg?raw=true"
+		},
+		{
+			"id": 5,
+			"phonetitle": "Apple iPhone XS Max",
+			"fullprice": "$1,099.99",
+			"rating": 4.2,
+			"downpayment": "$349.99",
+			"monthlypayment": "$20.84",
+			"ImageId": "Apple-iPhoneXsMax-Gold-1-sx.jpg",
+			"image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/Apple-iPhoneXsMax-Gold-1-sx.jpg?raw=true"
+		},
+		{
+			"id": 6,
+			"phonetitle": "Apple iPhone XS",
+			"fullprice": "$999.99",
+			"rating": 4.5,
+			"downpayment": "$249.99",
+			"monthlypayment": "$20.84",
+			"ImageId": "Apple-iPhoneXs-Gold-1-sx.jpg",
+			"image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/Apple-iPhoneXs-Gold-1-sx.jpg?raw=true"
+		},
+		{
+			"id": 7,
+			"phonetitle": "OnePlus 6T",
+			"fullprice": "$580.00",
+			"rating": 4.5,
+			"downpayment": "$0.00",
+			"monthlypayment": "$24.17",
+			"ImageId": "OnePlus-6T-Mirror-Black-1-sx.jpg",
+			"image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/OnePlus-6T-Mirror-Black-1-sx.jpg?raw=true"
+		},
+		{
+			"id": 8,
+			"phonetitle": "Samsung Galaxy Note9",
+			"fullprice": "$899.99",
+			"rating": 4.7,
+			"downpayment": "$149.99",
+			"monthlypayment": "$20.84",
+			"ImageId": "Samsung-Galaxy_Note9-Ocean_Blue-1-sx.jpg",
+			"image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/Samsung-Galaxy_Note9-Ocean_Blue-1-sx.jpg?raw=true"
+		},
+		{
+			"id": 9,
+			"phonetitle": "Samsung Galaxy S9",
+			"fullprice": "$600.00",
+			"rating": 4.0,
+			"downpayment": "$0.00",
+			"monthlypayment": "$25.00",
+			"ImageId": "Samsung-Galaxy-S9-Lilac-Purple-1-sx.jpg",
+			"image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/Samsung-Galaxy-S9-Lilac-Purple-1-sx.jpg?raw=true"
+		},
+		{
+			"id": 10,
+			"phonetitle": "Samsung Galaxy S9 Plus",
+			"fullprice": "$840.00",
+			"rating": 4.1,
+			"downpayment": "$90.00",
+			"monthlypayment": "$31.25",
+			"ImageId": "Samsung-Galaxy-S9-Plus-Midnight-Black-1-sx.jpg",
+			"image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/Samsung-Galaxy-S9-Plus-Midnight-Black-1-sx.jpg?raw=true"
+		},
+		{
+			"id": 11,
+			"phonetitle": "LG G7 ThinQ",
+			"fullprice": "$650.00",
+			"rating": 4.8,
+			"downpayment": "$00.00",
+			"monthlypayment": "$27.09",
+			"ImageId": "LG-G7-ThinQ-Raspberry-Rose-1-sx.jpg",
+			"image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/LG-G7-ThinQ-Raspberry-Rose-1-sx.jpg?raw=true"
+		},
+		{
+			"id": 12,
+			"phonetitle": "LG V40 ThinQ",
+			"fullprice": "$850.00",
+			"rating": 4.0,
+			"downpayment": "$130.00",
+			"monthlypayment": "$20.00",
+			"ImageId": "LG-V40-ThinQ-Black-1-sx.jpg",
+			"image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/LG-V40-ThinQ-Black-1-sx.jpg?raw=true"
+		},
+		{
+			"id": 13,
+			"phonetitle": "LG Q7+",
+			"fullprice": "$350.00",
+			"rating": 4.0,
+			"downpayment": "$0.00",
+			"monthlypayment": "$14.59",
+			"ImageId": "LG-Q7_Plus-Moroccan_Blue-1-sx.jpg",
+			"image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/LG-Q7_Plus-Moroccan_Blue-1-sx.jpg?raw=true"
+		},
+		{
+			"id": 14,
+			"phonetitle": "Apple iPhone X",
+			"fullprice": "$749.99",
+			"rating": 3.9,
+			"downpayment": "$0.00",
+			"monthlypayment": "$20.84",
+			"ImageId": "Apple-iPhoneX-Silver-1-sx.jpg",
+			"image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/Apple-iPhoneX-Silver-1-sx.jpg?raw=true"
+		},
+		{
+			"id": 15,
+			"phonetitle": "Apple iPhone 8",
+			"fullprice": "$599.99",
+			"rating": 4.0,
+			"downpayment": "$0.00",
+			"monthlypayment": "$25.00",
+			"ImageId": "apple-iphone8-gold-1-sx.jpg",
+			"image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/apple-iphone8-gold-1-sx.jpg?raw=true"
+		},
+		{
+			"id": 16,
+			"phonetitle": "Apple iPhone 7",
+			"fullprice": "$449.99",
+			"rating": 3.7,
+			"downpayment": "$0.00",
+			"monthlypayment": "$18.75",
+			"ImageId": "Apple-iPhone7-MatBlack-1-sx.jpg",
+			"image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/Apple-iPhone7-MatBlack-1-sx.jpg?raw=true"
+		},
+		{
+			"id": 17,
+			"phonetitle": "T-Mobile REVVL 2",
+			"fullprice": "$168.00",
+			"rating": 2.7,
+			"downpayment": "$0.00",
+			"monthlypayment": "$7.00",
+			"ImageId": "TMO-REVVL-2-MirrorBlack-1-sx.jpg",
+			"image_url": "https://github.com/switcher2018/Switcher-Assets/blob/master/Special%20Offers%20Assets/TMO-REVVL-2-MirrorBlack-1-sx.jpg?raw=true"
+		}
+	]
+}
