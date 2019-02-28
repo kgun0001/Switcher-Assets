@@ -1,51 +1,47 @@
 {
-    "count": 4,
-    "next": "null",
-    "previous": "null",
-    "results": [
-                {
-                "planid": 1001,
-                "plantitle": "Plan A",
-                "lines": "1",
-                "includes": "Includes, Talk, Text and Data",
-                "currency":"$",
-                "color":"#61cbea",
-                "price": "39",
-                "pricePeriod": "/Month",
-                "validity":"Exclusive Switcher Offer"
-                },
-                {
-                "planid": 1002,
-                "plantitle": "Plan B",
-                "lines": "2",
-                "includes": "Includes, Talk, Text and Data",
-                "currency":"$",
-                "color":"#73b421",
-                "price": "59",
-                "pricePeriod": "/Month",
-                "validity":""
-                },
-                {
-                "planid": 1003,
-                "plantitle": "Plan C",
-                "lines": "2",
-                "includes": "Includes, Talk, Text, Data and App Plan",
-                "currency":"$",
-                "color":"#f5b407",
-                "price": "79",
-                "pricePeriod": "/Month",
-                "validity":""
-                },
-                {
-                "planid": 1004,
-                "plantitle": "Plan D",
-                "lines": "4",
-                "includes": "Includes, Talk, Text, Data and App Plan",
-                "currency":"$",
-                "color":"#6f348d",
-                "price": "99",
-                "pricePeriod": "/Month",
-                "validity":"Exclusive Switcher Offer"
-                }
-                ]
+  "count": 4,
+  "next": "null",
+  "previous": "null",
+  "results": [
+    {
+      "planid": 1001,
+      "plantitle": "T-Mobile One ™",
+      "lines": "1",
+      "includes": "Includes: Talk, Text and Data",
+      "currency":"$",
+      "color":"#61cbea",
+      "price": "15",
+      "validity":"Only +$10 on your 2+ line account."
+    },
+    {
+      "planid": 1002,
+      "plantitle": "Unlimited for all.",
+      "lines": "4",
+      "includes": "Includes: Talk, Text and Data",
+      "currency":"$",
+      "color":"#73b421",
+      "price": "30",
+      "validity":"For 4 lines with AutoPay."
+    },
+    {
+      "planid": 1003,
+      "plantitle": "Unlimited 55+",
+      "lines": "2",
+      "includes": "Includes: Talk, Text and LTE",
+      "currency":"$",
+      "color":"#f5b407",
+      "price": "70",
+      "validity":"For customers ages 55 and older with AutoPay."
+    },
+    {
+      "planid": 1004,
+      "plantitle": "T-MOBILE ONE ™ MILITARY",
+      "lines": "1",
+      "includes": "Includes: Talk, Text and Data.",
+      "currency":"$",
+      "color":"#6f348d",
+      "price": "55",
+      "validity":"For military and veteran families."
+    }
+  ]
 }
